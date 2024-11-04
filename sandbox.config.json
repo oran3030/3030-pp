@@ -1,0 +1,11 @@
+{
+    "infiniteLoopProtection": true,
+    "hardReloadOnChange": false,
+    "view": "browser",
+    "template": "next",
+    "node": "16",
+    "container": {
+      "node": "16",
+      "port": 3000
+    }
+  }
